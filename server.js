@@ -15,7 +15,7 @@ const rappers = {
         'birthName': 'Chancellor',
         'birthLocation': 'ChiTown'
     },
-    'Drake': {
+    'drake': {
         'age': 36,
         'birthName': 'Aubrey',
         'birthLocation': 'Toronto'
