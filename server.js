@@ -15,6 +15,11 @@ const rappers = {
         'birthName': 'Chancellor',
         'birthLocation': 'ChiTown'
     },
+    'Drake': {
+        'age': 36,
+        'birthName': 'Aubrey',
+        'birthLocation': 'Toronto'
+    },
     'unknown': {
         'age': 0,
         'birthName': 'unknown',
